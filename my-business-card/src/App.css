@@ -9,6 +9,6 @@
     overflow: hidden;
     list-style:none;
     position: relative;
-    box-shadow:#01040E 1px 1px 10px 1px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 

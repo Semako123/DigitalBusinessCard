@@ -40,7 +40,7 @@ button {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: white;
+	background: linear-gradient(white, rgb(186, 186, 186));
 	border: none;
 	border-radius: 10px;
 	width: 117px;
@@ -48,7 +48,7 @@ button {
 }
 
 .linkedin {
-	background-color: #4688ea;
+	background: linear-gradient(#4688ea, #2864bd);
 }
 
 .grid {
