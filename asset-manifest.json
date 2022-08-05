@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56a46b93.css",
+    "main.js": "/static/js/main.634ed00d.js",
+    "static/media/semako.jpg": "/static/media/semako.54c1e1cbaebb3ba1ddad.jpg",
+    "static/media/icons8-twitter-24.svg": "/static/media/icons8-twitter-24.9f36773b002177e0e549e50f3f85633a.svg",
+    "static/media/icons8-whatsapp-24.svg": "/static/media/icons8-whatsapp-24.80287826f988c81443835b9890004831.svg",
+    "static/media/icons8-github.svg": "/static/media/icons8-github.b9d43164764b68b5c25b91bb5e42d18b.svg",
+    "static/media/icons8-linkedin.svg": "/static/media/icons8-linkedin.7b39e5cabf0b9f87fef049f1ad990de8.svg",
+    "static/media/icons8-gmail.svg": "/static/media/icons8-gmail.7db1aad08afa593ed61254d387c9588d.svg",
+    "index.html": "/index.html",
+    "main.56a46b93.css.map": "/static/css/main.56a46b93.css.map",
+    "main.634ed00d.js.map": "/static/js/main.634ed00d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a46b93.css",
+    "static/js/main.634ed00d.js"
+  ]
+}
