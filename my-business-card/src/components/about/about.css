@@ -1,0 +1,29 @@
+.main{
+    color:white;
+}
+
+h3{
+    margin-top: 10px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    text-align: start;
+    margin-left: 10px;
+    font-size: small;
+}
+p{
+    text-indent: 10px;
+    text-align: justify;
+    margin: 0px 10px;
+    font-size: 10px;
+}
+
+ul{
+    margin: 0px;
+    margin-left:-15px;
+}
+
+li{
+    text-align: start;
+    font-size: 10px;
+    list-style: none;
+}
