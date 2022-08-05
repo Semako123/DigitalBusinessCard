@@ -4,11 +4,11 @@ import './about.css';
 class About extends Component {
 	render() {
 		return (
-			<div className='main'>
+			<div className='about-main'>
 				<h3>About</h3>
 				<p>
 					I am a front-end developer who is passionate about his work.
-					Experienced with working with HTML, CSS, Javascript, Python (Flask)
+					Experienced with HTML, CSS, Javascript, Python (Flask), MySQL
 					and React. Let’s make something great.
 				</p>
 				<h3>Interests</h3>

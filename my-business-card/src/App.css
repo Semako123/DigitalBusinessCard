@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 .app{
+    font-family: 'Ubuntu', sans-serif;
     width: 270px;
     background-color: #01040E;
     height:618px;
     border-radius: 19px;
     overflow: hidden;
     list-style:none;
+    position: relative;
 }
+
