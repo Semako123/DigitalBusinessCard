@@ -9,5 +9,6 @@
     overflow: hidden;
     list-style:none;
     position: relative;
+    box-shadow:#01040E 1px 1px 10px 1px;
 }
 
